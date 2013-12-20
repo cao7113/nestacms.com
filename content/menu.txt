@@ -10,6 +10,7 @@ docs
     docs/creating-content/attachments
     docs/creating-content/menus
     docs/creating-content/metadata-reference
+    docs/creating-content/markdown-cheat-sheet
   docs/config
     docs/config/site-title
     docs/config/atom-feed
